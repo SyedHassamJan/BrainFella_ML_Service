@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+test_audio/*.m4a
+config.bat
+node_modules
